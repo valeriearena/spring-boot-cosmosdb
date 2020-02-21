@@ -1,0 +1,15 @@
+.DS_Store
+
+*.gz
+
+*.gradle
+
+*.iml
+.idea
+
+*.class
+classes
+
+build
+out
+
